@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Analysis choices can produce apparent rich-club differences: analysis code and calibration"
+authors:
+  - family-names: Durongbhan
+    given-names: Pholpat
+    orcid: "https://orcid.org/0000-0002-5164-3482"
+  - family-names: Liu
+    given-names: Kai-Wayne
+    orcid: "https://orcid.org/0000-0002-4496-7921"
+version: 1.0.0
+date-released: "2026-09-27"
+license: MIT
+repository-code: "https://github.com/PDurongbhan/rich-club-specification-eeg"

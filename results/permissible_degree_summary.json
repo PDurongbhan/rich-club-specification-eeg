@@ -1,0 +1,10 @@
+{
+ "spearman_deg_vs_reselection_reshuffle": 0.9578570449587325,
+ "spearman_deg_vs_reselection_strength": 0.33527575617833927,
+ "spearman_deg_vs_observed_hub_frequency": 0.32740861795776893,
+ "mean_overlap_reshuffle": 0.24836,
+ "mean_overlap_strength": 0.95152,
+ "mean_overlap_reshuffle_AD": 0.25544000000000006,
+ "mean_overlap_reshuffle_HC": 0.24128000000000008,
+ "expected_null_strength_ratio_20_vs_16_edges": 1.25
+}
