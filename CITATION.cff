@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use this code, please cite it as below."
+message: "If you use this code or data, please cite the article (preferred-citation) and this software record."
 title: "Analysis choices can produce apparent rich-club differences: analysis code and calibration"
 authors:
   - family-names: Durongbhan
@@ -12,3 +12,21 @@ version: 1.0.0
 date-released: "2026-09-27"
 license: MIT
 repository-code: "https://github.com/PDurongbhan/rich-club-specification-eeg"
+preferred-citation:
+  type: article
+  title: "Analysis choices can produce apparent rich-club differences: an Alzheimer's disease EEG case study"
+  authors:
+    - family-names: Liu
+      given-names: Kai-Wayne
+      orcid: "https://orcid.org/0000-0002-4496-7921"
+    - family-names: Pang
+      given-names: Ryan Tian En
+      orcid: "https://orcid.org/0009-0003-6460-1171"
+    - family-names: Durongbhan
+      given-names: Pholpat
+      orcid: "https://orcid.org/0000-0002-5164-3482"
+  journal: "Journal of Neuroscience Methods"
+  year: 2026
+  start: 110927
+  doi: "10.1016/j.jneumeth.2026.110927"
+  issn: "0165-0270"

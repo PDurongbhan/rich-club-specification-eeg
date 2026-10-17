@@ -44,6 +44,8 @@ Every randomised step uses a fixed seed; the main analyses derive theirs from on
 
 ## Citation
 
-This code accompanies a manuscript currently under review; the article citation will be added on publication.
+If you use this code or data, please cite the article:
+
+Liu, K.W., Pang, R.T.E., Durongbhan, P., 2026. Analysis choices can produce apparent rich-club differences: an Alzheimer's disease EEG case study. Journal of Neuroscience Methods, 110927. https://doi.org/10.1016/j.jneumeth.2026.110927
 
 Code and data archived at Zenodo: https://doi.org/10.5281/zenodo.22983739
